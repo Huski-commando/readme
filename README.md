@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyanendra Kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Front-End Projects**
+- 🔭 I’m currently working on **PORTFOLIO Project - MERN Stack**
 
 - 🌱 I’m currently learning **MERN Stack, Next.js, JWT Authentication & Authorization**
 
